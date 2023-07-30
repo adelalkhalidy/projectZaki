@@ -5,5 +5,7 @@ public class Demo2 {
 		System.out.println("My Name");
 		
 	}
-
+	public static void getInfo(){
+		System.out.println("Adel Zaki");
+	}
 }
